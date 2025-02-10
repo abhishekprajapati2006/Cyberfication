@@ -22,6 +22,3 @@ Visit the website here: [CyberFiction Metaverse](https://cyberfication.vercel.ap
 - Add dynamic content and user interactions.  
 - Integrate backend functionality for real-world applications.  
 - Include more accessibility features for a wider audience.  
-
-## License  
-This project is free to use for educational and personal purposes.  
